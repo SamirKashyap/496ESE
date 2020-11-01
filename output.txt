@@ -1,0 +1,1428 @@
+Session ID:  9a6859f7-abef-4089-bf5d-cee4a7e1b811  Number of Events:  3361 
+    Version Control:  912 
+    Edit:  179 
+    Command:  1360 
+    Document:  66 
+    Activity:  103 
+    Navigation:  318 
+    Test Run:  0 
+    Window:  93 
+    Completion:  287 
+    System:  12 
+    Debugger:  0 
+    Solution:  28 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  ecc92e53-8971-41e3-9718-80165c6abf26  Number of Events:  1175 
+    Version Control:  970 
+    Edit:  3 
+    Command:  42 
+    Document:  42 
+    Activity:  24 
+    Navigation:  5 
+    Test Run:  0 
+    Window:  57 
+    Completion:  0 
+    System:  2 
+    Debugger:  0 
+    Solution:  28 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  19df203f-9a0f-4a30-9861-df2d250110e8  Number of Events:  698 
+    Version Control:  471 
+    Edit:  8 
+    Command:  52 
+    Document:  5 
+    Activity:  32 
+    Navigation:  9 
+    Test Run:  0 
+    Window:  101 
+    Completion:  3 
+    System:  0 
+    Debugger:  3 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  e306eb3c-e6a6-4e84-84ff-0465508c0f5c  Number of Events:  40987 
+    Version Control:  1337 
+    Edit:  3757 
+    Command:  23116 
+    Document:  1719 
+    Activity:  2310 
+    Navigation:  3465 
+    Test Run:  178 
+    Window:  2105 
+    Completion:  2465 
+    System:  2 
+    Debugger:  498 
+    Solution:  32 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  20d14a0c-912b-4566-b07a-69940e673e91  Number of Events:  19194 
+    Version Control:  680 
+    Edit:  1549 
+    Command:  9331 
+    Document:  1038 
+    Activity:  1180 
+    Navigation:  1761 
+    Test Run:  180 
+    Window:  2064 
+    Completion:  1210 
+    System:  8 
+    Debugger:  169 
+    Solution:  20 
+    IDE State:  2 
+    Undefined:  2
+Session ID:  26f7d8b2-f0dc-4132-a732-68d6cfecd6bd  Number of Events:  26841 
+    Version Control:  6 
+    Edit:  2089 
+    Command:  13919 
+    Document:  1325 
+    Activity:  1408 
+    Navigation:  3349 
+    Test Run:  131 
+    Window:  2019 
+    Completion:  2248 
+    System:  6 
+    Debugger:  334 
+    Solution:  4 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  771a127a-cd51-4bb2-8f1e-3e2296f7eef0  Number of Events:  20496 
+    Version Control:  1371 
+    Edit:  1903 
+    Command:  9657 
+    Document:  924 
+    Activity:  1337 
+    Navigation:  1749 
+    Test Run:  84 
+    Window:  1793 
+    Completion:  1026 
+    System:  2 
+    Debugger:  603 
+    Solution:  44 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  4e8396b7-1332-4d76-b313-2e560ead5bd9  Number of Events:  17958 
+    Version Control:  698 
+    Edit:  1678 
+    Command:  9167 
+    Document:  834 
+    Activity:  1275 
+    Navigation:  1024 
+    Test Run:  138 
+    Window:  1663 
+    Completion:  597 
+    System:  4 
+    Debugger:  860 
+    Solution:  18 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  fa3306ea-a8d5-48d2-a521-8250afecbaeb  Number of Events:  864 
+    Version Control:  709 
+    Edit:  5 
+    Command:  70 
+    Document:  13 
+    Activity:  15 
+    Navigation:  4 
+    Test Run:  0 
+    Window:  25 
+    Completion:  5 
+    System:  0 
+    Debugger:  0 
+    Solution:  16 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  e57d365c-6a98-42cb-a58f-d5be7a5ce79b  Number of Events:  10057 
+    Version Control:  712 
+    Edit:  979 
+    Command:  5103 
+    Document:  401 
+    Activity:  568 
+    Navigation:  777 
+    Test Run:  79 
+    Window:  741 
+    Completion:  532 
+    System:  0 
+    Debugger:  147 
+    Solution:  16 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  9509189e-468c-4edb-aa01-cc6db1dc15df  Number of Events:  485 
+    Version Control:  424 
+    Edit:  2 
+    Command:  4 
+    Document:  17 
+    Activity:  5 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  17 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  14 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  e5b3b30b-0d2c-4a7d-b172-7f0466c02b26  Number of Events:  6831 
+    Version Control:  428 
+    Edit:  614 
+    Command:  3245 
+    Document:  211 
+    Activity:  250 
+    Navigation:  880 
+    Test Run:  0 
+    Window:  380 
+    Completion:  756 
+    System:  0 
+    Debugger:  36 
+    Solution:  1 
+    IDE State:  2 
+    Undefined:  28
+Session ID:  de0e4f86-9b99-4234-8cf5-f6f7d7966fba  Number of Events:  691 
+    Version Control:  432 
+    Edit:  28 
+    Command:  158 
+    Document:  1 
+    Activity:  35 
+    Navigation:  11 
+    Test Run:  0 
+    Window:  8 
+    Completion:  11 
+    System:  0 
+    Debugger:  0 
+    Solution:  1 
+    IDE State:  2 
+    Undefined:  4
+Session ID:  91b79e6c-9804-4fc6-b0d3-4269282465a0  Number of Events:  669 
+    Version Control:  450 
+    Edit:  45 
+    Command:  48 
+    Document:  29 
+    Activity:  8 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  66 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  2 
+    Undefined:  8
+Session ID:  037f18f9-bcc1-4968-98f7-fffe4dbad5d3  Number of Events:  843 
+    Version Control:  455 
+    Edit:  30 
+    Command:  143 
+    Document:  30 
+    Activity:  46 
+    Navigation:  46 
+    Test Run:  0 
+    Window:  67 
+    Completion:  4 
+    System:  0 
+    Debugger:  0 
+    Solution:  14 
+    IDE State:  2 
+    Undefined:  6
+Session ID:  39c983ff-7755-4fe7-bb1d-c043ceb6aad5  Number of Events:  1040 
+    Version Control:  435 
+    Edit:  99 
+    Command:  233 
+    Document:  36 
+    Activity:  45 
+    Navigation:  72 
+    Test Run:  0 
+    Window:  84 
+    Completion:  22 
+    System:  0 
+    Debugger:  0 
+    Solution:  5 
+    IDE State:  2 
+    Undefined:  7
+Session ID:  233c4a96-6b25-4d0b-a479-eafc1f998b6b  Number of Events:  775 
+    Version Control:  458 
+    Edit:  14 
+    Command:  112 
+    Document:  39 
+    Activity:  13 
+    Navigation:  36 
+    Test Run:  0 
+    Window:  67 
+    Completion:  22 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  4ef54ad1-3d29-4f25-a897-dd8e392c103c  Number of Events:  1678 
+    Version Control:  458 
+    Edit:  89 
+    Command:  513 
+    Document:  68 
+    Activity:  97 
+    Navigation:  179 
+    Test Run:  3 
+    Window:  158 
+    Completion:  84 
+    System:  4 
+    Debugger:  0 
+    Solution:  24 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  e98c03f5-e2c0-4ae6-bc35-2e28223f96b2  Number of Events:  518 
+    Version Control:  458 
+    Edit:  3 
+    Command:  21 
+    Document:  2 
+    Activity:  3 
+    Navigation:  8 
+    Test Run:  0 
+    Window:  7 
+    Completion:  2 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  c3ff9302-55c1-46a6-b5f1-a2ffe94709f1  Number of Events:  819 
+    Version Control:  458 
+    Edit:  30 
+    Command:  163 
+    Document:  21 
+    Activity:  12 
+    Navigation:  33 
+    Test Run:  0 
+    Window:  59 
+    Completion:  29 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  4bcce982-1703-42de-8ac7-f250bb6c32cf  Number of Events:  770 
+    Version Control:  458 
+    Edit:  27 
+    Command:  151 
+    Document:  8 
+    Activity:  13 
+    Navigation:  48 
+    Test Run:  0 
+    Window:  27 
+    Completion:  24 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  b10207d7-74f3-4c54-86ae-b21b7e3eb3e4  Number of Events:  563 
+    Version Control:  471 
+    Edit:  14 
+    Command:  49 
+    Document:  2 
+    Activity:  4 
+    Navigation:  3 
+    Test Run:  0 
+    Window:  5 
+    Completion:  1 
+    System:  0 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  6cf093d9-ca3a-4edd-a731-145cf135d19f  Number of Events:  2678 
+    Version Control:  525 
+    Edit:  149 
+    Command:  1188 
+    Document:  111 
+    Activity:  163 
+    Navigation:  162 
+    Test Run:  3 
+    Window:  199 
+    Completion:  120 
+    System:  4 
+    Debugger:  33 
+    Solution:  19 
+    IDE State:  1 
+    Undefined:  1
+Session ID:  32fffad0-56e8-4f42-b338-52fa705eb6f8  Number of Events:  612 
+    Version Control:  515 
+    Edit:  1 
+    Command:  12 
+    Document:  25 
+    Activity:  7 
+    Navigation:  1 
+    Test Run:  0 
+    Window:  33 
+    Completion:  0 
+    System:  2 
+    Debugger:  0 
+    Solution:  14 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  95f04899-d86a-47ad-a1b3-3f5fd681f702  Number of Events:  2257 
+    Version Control:  515 
+    Edit:  181 
+    Command:  1037 
+    Document:  54 
+    Activity:  77 
+    Navigation:  151 
+    Test Run:  0 
+    Window:  66 
+    Completion:  158 
+    System:  4 
+    Debugger:  0 
+    Solution:  13 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  fefe5a30-428d-4d86-b5f0-2a319e96be34  Number of Events:  603 
+    Version Control:  525 
+    Edit:  7 
+    Command:  39 
+    Document:  1 
+    Activity:  4 
+    Navigation:  3 
+    Test Run:  0 
+    Window:  6 
+    Completion:  3 
+    System:  0 
+    Debugger:  0 
+    Solution:  14 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  d1728163-f1f7-4f86-8877-7e875a17f348  Number of Events:  839 
+    Version Control:  525 
+    Edit:  26 
+    Command:  173 
+    Document:  13 
+    Activity:  18 
+    Navigation:  16 
+    Test Run:  1 
+    Window:  24 
+    Completion:  26 
+    System:  0 
+    Debugger:  0 
+    Solution:  16 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  9bc45bc2-249e-499b-bb38-dae16babb486  Number of Events:  637 
+    Version Control:  525 
+    Edit:  11 
+    Command:  58 
+    Document:  4 
+    Activity:  6 
+    Navigation:  4 
+    Test Run:  0 
+    Window:  9 
+    Completion:  4 
+    System:  0 
+    Debugger:  0 
+    Solution:  15 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  6d62639c-b425-4b28-ae04-20ac58f9a2d2  Number of Events:  4180 
+    Version Control:  1217 
+    Edit:  139 
+    Command:  1037 
+    Document:  364 
+    Activity:  342 
+    Navigation:  170 
+    Test Run:  3 
+    Window:  793 
+    Completion:  42 
+    System:  14 
+    Debugger:  0 
+    Solution:  55 
+    IDE State:  2 
+    Undefined:  2
+Session ID:  8ed6e4f0-387b-4568-bb63-ab2645f8b32d  Number of Events:  7739 
+    Version Control:  619 
+    Edit:  341 
+    Command:  2449 
+    Document:  940 
+    Activity:  602 
+    Navigation:  646 
+    Test Run:  0 
+    Window:  2028 
+    Completion:  88 
+    System:  4 
+    Debugger:  0 
+    Solution:  19 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  aaa4a08e-432b-454f-a760-922ab22a29a4  Number of Events:  17696 
+    Version Control:  626 
+    Edit:  1326 
+    Command:  8499 
+    Document:  1403 
+    Activity:  1192 
+    Navigation:  1634 
+    Test Run:  0 
+    Window:  2104 
+    Completion:  824 
+    System:  10 
+    Debugger:  0 
+    Solution:  72 
+    IDE State:  2 
+    Undefined:  4
+Session ID:  8ed1932b-0599-4aff-8139-3da19197f106  Number of Events:  6855 
+    Version Control:  622 
+    Edit:  486 
+    Command:  2886 
+    Document:  528 
+    Activity:  407 
+    Navigation:  658 
+    Test Run:  0 
+    Window:  899 
+    Completion:  341 
+    System:  4 
+    Debugger:  0 
+    Solution:  16 
+    IDE State:  2 
+    Undefined:  6
+Session ID:  5cdf7fbb-4457-4e1a-9308-0f5c6fdcc7eb  Number of Events:  9835 
+    Version Control:  622 
+    Edit:  828 
+    Command:  4634 
+    Document:  645 
+    Activity:  562 
+    Navigation:  1114 
+    Test Run:  0 
+    Window:  950 
+    Completion:  460 
+    System:  4 
+    Debugger:  0 
+    Solution:  15 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  310487e3-c297-4409-bf10-0fb03f36015e  Number of Events:  24854 
+    Version Control:  1282 
+    Edit:  2060 
+    Command:  12504 
+    Document:  1220 
+    Activity:  1652 
+    Navigation:  2526 
+    Test Run:  85 
+    Window:  1955 
+    Completion:  1466 
+    System:  10 
+    Debugger:  42 
+    Solution:  50 
+    IDE State:  1 
+    Undefined:  1
+Session ID:  a1f00aea-46e7-4531-ba01-b3926a3a16fe  Number of Events:  32704 
+    Version Control:  652 
+    Edit:  3033 
+    Command:  17323 
+    Document:  1377 
+    Activity:  2180 
+    Navigation:  3489 
+    Test Run:  180 
+    Window:  2317 
+    Completion:  1710 
+    System:  6 
+    Debugger:  413 
+    Solution:  19 
+    IDE State:  2 
+    Undefined:  3
+Session ID:  55b151b7-57bc-47cf-8660-5182d751c9a1  Number of Events:  30626 
+    Version Control:  247 
+    Edit:  2724 
+    Command:  18496 
+    Document:  1172 
+    Activity:  1648 
+    Navigation:  2548 
+    Test Run:  62 
+    Window:  1863 
+    Completion:  1673 
+    System:  6 
+    Debugger:  183 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  7d16a706-4d73-4569-92d4-8d3508b07eda  Number of Events:  39931 
+    Version Control:  812 
+    Edit:  3698 
+    Command:  22904 
+    Document:  1441 
+    Activity:  2119 
+    Navigation:  3502 
+    Test Run:  158 
+    Window:  2297 
+    Completion:  2537 
+    System:  14 
+    Debugger:  439 
+    Solution:  7 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  5a4bf66f-46da-4d8d-be83-3e4c01d44e54  Number of Events:  18230 
+    Version Control:  257 
+    Edit:  1656 
+    Command:  10857 
+    Document:  835 
+    Activity:  834 
+    Navigation:  1382 
+    Test Run:  52 
+    Window:  1507 
+    Completion:  832 
+    System:  2 
+    Debugger:  14 
+    Solution:  1 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  0972e52b-51ab-4eef-86c3-3f1e4d0d31d4  Number of Events:  1241 
+    Version Control:  249 
+    Edit:  59 
+    Command:  409 
+    Document:  66 
+    Activity:  94 
+    Navigation:  111 
+    Test Run:  11 
+    Window:  193 
+    Completion:  42 
+    System:  0 
+    Debugger:  3 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  f1494a09-8265-4fc4-9ad8-ff9fefb98aa0  Number of Events:  30302 
+    Version Control:  573 
+    Edit:  2496 
+    Command:  16003 
+    Document:  1571 
+    Activity:  2010 
+    Navigation:  3132 
+    Test Run:  53 
+    Window:  2652 
+    Completion:  1698 
+    System:  2 
+    Debugger:  107 
+    Solution:  3 
+    IDE State:  1 
+    Undefined:  1
+Session ID:  4fe89516-784a-4ec4-a818-b5f624dffd2b  Number of Events:  318 
+    Version Control:  290 
+    Edit:  1 
+    Command:  2 
+    Document:  5 
+    Activity:  3 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  13 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  3696281d-3432-4a49-aee6-207ded3ad6a8  Number of Events:  70259 
+    Version Control:  616 
+    Edit:  6424 
+    Command:  39892 
+    Document:  2692 
+    Activity:  3700 
+    Navigation:  7873 
+    Test Run:  334 
+    Window:  3217 
+    Completion:  5185 
+    System:  10 
+    Debugger:  310 
+    Solution:  3 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  0fc9e475-bb14-49f2-9848-9eac7eb43df1  Number of Events:  15903 
+    Version Control:  636 
+    Edit:  1379 
+    Command:  8406 
+    Document:  700 
+    Activity:  942 
+    Navigation:  1508 
+    Test Run:  77 
+    Window:  1257 
+    Completion:  692 
+    System:  4 
+    Debugger:  294 
+    Solution:  4 
+    IDE State:  2 
+    Undefined:  2
+Session ID:  0845e9cd-9918-4245-a831-778583c75a33  Number of Events:  536 
+    Version Control:  320 
+    Edit:  8 
+    Command:  55 
+    Document:  19 
+    Activity:  26 
+    Navigation:  10 
+    Test Run:  0 
+    Window:  90 
+    Completion:  0 
+    System:  2 
+    Debugger:  4 
+    Solution:  1 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  ad68aae8-20cb-4f52-8a81-48a46685194a  Number of Events:  417 
+    Version Control:  320 
+    Edit:  4 
+    Command:  27 
+    Document:  3 
+    Activity:  25 
+    Navigation:  3 
+    Test Run:  0 
+    Window:  29 
+    Completion:  0 
+    System:  2 
+    Debugger:  2 
+    Solution:  1 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  3d4e2602-246e-4eee-8d16-1d8e78006440  Number of Events:  626 
+    Version Control:  320 
+    Edit:  22 
+    Command:  133 
+    Document:  31 
+    Activity:  26 
+    Navigation:  14 
+    Test Run:  1 
+    Window:  56 
+    Completion:  19 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  a2d05320-fc17-4bbf-bda1-6a543dbe27e9  Number of Events:  397 
+    Version Control:  320 
+    Edit:  0 
+    Command:  7 
+    Document:  26 
+    Activity:  6 
+    Navigation:  1 
+    Test Run:  0 
+    Window:  33 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  935095a0-e31d-4d99-a89a-1c918aa43169  Number of Events:  2169 
+    Version Control:  651 
+    Edit:  107 
+    Command:  633 
+    Document:  137 
+    Activity:  106 
+    Navigation:  156 
+    Test Run:  14 
+    Window:  262 
+    Completion:  81 
+    System:  10 
+    Debugger:  6 
+    Solution:  4 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  d14cc78b-2984-42be-a884-1a6c9bf931bf  Number of Events:  12605 
+    Version Control:  669 
+    Edit:  941 
+    Command:  6615 
+    Document:  640 
+    Activity:  695 
+    Navigation:  1353 
+    Test Run:  52 
+    Window:  1034 
+    Completion:  536 
+    System:  0 
+    Debugger:  62 
+    Solution:  4 
+    IDE State:  2 
+    Undefined:  2
+Session ID:  a50396b7-4311-4252-a025-3740ca1d2ce0  Number of Events:  5507 
+    Version Control:  698 
+    Edit:  353 
+    Command:  2661 
+    Document:  255 
+    Activity:  332 
+    Navigation:  247 
+    Test Run:  17 
+    Window:  548 
+    Completion:  191 
+    System:  0 
+    Debugger:  195 
+    Solution:  8 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  1a4ab127-4c9c-4f68-8332-70a63c45ba35  Number of Events:  3281 
+    Version Control:  703 
+    Edit:  159 
+    Command:  1344 
+    Document:  169 
+    Activity:  163 
+    Navigation:  241 
+    Test Run:  8 
+    Window:  289 
+    Completion:  186 
+    System:  0 
+    Debugger:  5 
+    Solution:  12 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  4105aeae-bea6-4dff-a739-bbc638375ab4  Number of Events:  2492 
+    Version Control:  723 
+    Edit:  62 
+    Command:  680 
+    Document:  180 
+    Activity:  165 
+    Navigation:  39 
+    Test Run:  7 
+    Window:  605 
+    Completion:  16 
+    System:  0 
+    Debugger:  2 
+    Solution:  10 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  933b181a-73aa-46e6-afc2-d777745b5945  Number of Events:  453 
+    Version Control:  378 
+    Edit:  0 
+    Command:  12 
+    Document:  22 
+    Activity:  6 
+    Navigation:  0 
+    Test Run:  1 
+    Window:  30 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  dc6be3f8-2e75-45fc-a284-fdae5521c08d  Number of Events:  1380 
+    Version Control:  768 
+    Edit:  36 
+    Command:  190 
+    Document:  89 
+    Activity:  64 
+    Navigation:  26 
+    Test Run:  1 
+    Window:  180 
+    Completion:  4 
+    System:  0 
+    Debugger:  14 
+    Solution:  6 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  2b22ffd8-80ea-4004-af77-40a4ce4741ff  Number of Events:  448 
+    Version Control:  387 
+    Edit:  0 
+    Command:  7 
+    Document:  18 
+    Activity:  6 
+    Navigation:  1 
+    Test Run:  0 
+    Window:  25 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  81b7875b-133b-48f1-800d-ce7f932245df  Number of Events:  479 
+    Version Control:  387 
+    Edit:  1 
+    Command:  17 
+    Document:  22 
+    Activity:  12 
+    Navigation:  4 
+    Test Run:  0 
+    Window:  32 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  7b01b2fb-4073-4f71-bb4b-563ca2e5f49d  Number of Events:  10322 
+    Version Control:  1186 
+    Edit:  959 
+    Command:  5041 
+    Document:  372 
+    Activity:  643 
+    Navigation:  741 
+    Test Run:  7 
+    Window:  875 
+    Completion:  417 
+    System:  20 
+    Debugger:  51 
+    Solution:  7 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  1542567e-4654-4cb4-a87f-398645b112aa  Number of Events:  21406 
+    Version Control:  1629 
+    Edit:  1687 
+    Command:  10629 
+    Document:  872 
+    Activity:  1019 
+    Navigation:  2414 
+    Test Run:  73 
+    Window:  1227 
+    Completion:  1745 
+    System:  16 
+    Debugger:  78 
+    Solution:  15 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  5447d9d8-596b-46a5-bd5d-fa1913821620  Number of Events:  5125 
+    Version Control:  849 
+    Edit:  325 
+    Command:  2365 
+    Document:  169 
+    Activity:  299 
+    Navigation:  405 
+    Test Run:  20 
+    Window:  339 
+    Completion:  282 
+    System:  1 
+    Debugger:  65 
+    Solution:  3 
+    IDE State:  1 
+    Undefined:  2
+Session ID:  3fdb64d9-5b00-4e75-9a03-f427f1137aaa  Number of Events:  3591 
+    Version Control:  1298 
+    Edit:  91 
+    Command:  1232 
+    Document:  137 
+    Activity:  211 
+    Navigation:  92 
+    Test Run:  4 
+    Window:  441 
+    Completion:  33 
+    System:  6 
+    Debugger:  24 
+    Solution:  16 
+    IDE State:  2 
+    Undefined:  4
+Session ID:  fbdcf14e-2d14-4fb1-95d2-1fa39cbf4c0a  Number of Events:  976 
+    Version Control:  426 
+    Edit:  38 
+    Command:  356 
+    Document:  24 
+    Activity:  19 
+    Navigation:  22 
+    Test Run:  0 
+    Window:  27 
+    Completion:  60 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  649c96ae-15e5-42d9-8c70-6a2fba263c45  Number of Events:  12795 
+    Version Control:  441 
+    Edit:  1058 
+    Command:  6551 
+    Document:  500 
+    Activity:  911 
+    Navigation:  1181 
+    Test Run:  90 
+    Window:  1313 
+    Completion:  613 
+    System:  4 
+    Debugger:  131 
+    Solution:  1 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  a29405e4-c15d-413c-a91d-d6a3d3d30fa0  Number of Events:  5635 
+    Version Control:  443 
+    Edit:  495 
+    Command:  2612 
+    Document:  222 
+    Activity:  537 
+    Navigation:  641 
+    Test Run:  11 
+    Window:  444 
+    Completion:  207 
+    System:  4 
+    Debugger:  14 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  a021ff7a-d51e-490b-aacf-e8c34f06c202  Number of Events:  1733 
+    Version Control:  453 
+    Edit:  88 
+    Command:  583 
+    Document:  64 
+    Activity:  128 
+    Navigation:  51 
+    Test Run:  0 
+    Window:  208 
+    Completion:  26 
+    System:  0 
+    Debugger:  128 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  d63c0fdb-5116-4da5-a0f2-c9d4c4626563  Number of Events:  6963 
+    Version Control:  1384 
+    Edit:  390 
+    Command:  2608 
+    Document:  538 
+    Activity:  404 
+    Navigation:  512 
+    Test Run:  19 
+    Window:  862 
+    Completion:  206 
+    System:  6 
+    Debugger:  20 
+    Solution:  10 
+    IDE State:  1 
+    Undefined:  3
+Session ID:  946d967e-da5f-43e8-afae-a1bb0bcacf8e  Number of Events:  13406 
+    Version Control:  897 
+    Edit:  2770 
+    Command:  5536 
+    Document:  392 
+    Activity:  797 
+    Navigation:  687 
+    Test Run:  43 
+    Window:  1273 
+    Completion:  437 
+    System:  4 
+    Debugger:  563 
+    Solution:  5 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  b6c02ae2-f5da-4dc6-aa49-934620d4d0dc  Number of Events:  1362 
+    Version Control:  0 
+    Edit:  100 
+    Command:  631 
+    Document:  45 
+    Activity:  76 
+    Navigation:  273 
+    Test Run:  5 
+    Window:  73 
+    Completion:  150 
+    System:  2 
+    Debugger:  0 
+    Solution:  5 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  565dba72-d525-4864-9bf4-ac7b225de74a  Number of Events:  852 
+    Version Control:  0 
+    Edit:  68 
+    Command:  419 
+    Document:  35 
+    Activity:  81 
+    Navigation:  83 
+    Test Run:  6 
+    Window:  95 
+    Completion:  56 
+    System:  2 
+    Debugger:  0 
+    Solution:  5 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  785a15e8-d6d3-442d-bfee-be030ab88515  Number of Events:  1160 
+    Version Control:  6 
+    Edit:  76 
+    Command:  563 
+    Document:  65 
+    Activity:  80 
+    Navigation:  113 
+    Test Run:  4 
+    Window:  140 
+    Completion:  95 
+    System:  0 
+    Debugger:  0 
+    Solution:  16 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  e480611c-5077-4ef2-87bb-49d16dd8c9f2  Number of Events:  349 
+    Version Control:  10 
+    Edit:  8 
+    Command:  149 
+    Document:  18 
+    Activity:  35 
+    Navigation:  37 
+    Test Run:  0 
+    Window:  73 
+    Completion:  6 
+    System:  2 
+    Debugger:  0 
+    Solution:  9 
+    IDE State:  1 
+    Undefined:  1
+Session ID:  de255498-04a7-4871-af90-eab098454220  Number of Events:  127 
+    Version Control:  5 
+    Edit:  8 
+    Command:  74 
+    Document:  2 
+    Activity:  2 
+    Navigation:  10 
+    Test Run:  0 
+    Window:  8 
+    Completion:  12 
+    System:  0 
+    Debugger:  0 
+    Solution:  5 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  93f7b31a-d614-40d0-a9f4-16e7eada66b9  Number of Events:  86 
+    Version Control:  7 
+    Edit:  0 
+    Command:  4 
+    Document:  28 
+    Activity:  5 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  38 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  b612e287-6313-4cc3-bbfd-aee3fa48795b  Number of Events:  200 
+    Version Control:  5 
+    Edit:  9 
+    Command:  101 
+    Document:  10 
+    Activity:  8 
+    Navigation:  8 
+    Test Run:  0 
+    Window:  29 
+    Completion:  20 
+    System:  2 
+    Debugger:  0 
+    Solution:  6 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  d6a91373-3afc-478b-b9ff-24156c8768f2  Number of Events:  12 
+    Version Control:  0 
+    Edit:  0 
+    Command:  8 
+    Document:  0 
+    Activity:  0 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  3 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  c14644b6-444c-4a56-928a-07fbc96fd1de  Number of Events:  11 
+    Version Control:  0 
+    Edit:  0 
+    Command:  0 
+    Document:  0 
+    Activity:  3 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  6 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  29f5cc1d-c462-4345-a0ee-29a301e5dddc  Number of Events:  9 
+    Version Control:  0 
+    Edit:  0 
+    Command:  2 
+    Document:  0 
+    Activity:  1 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  4 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  dba3fc27-deed-4866-8388-d762ce825cb1  Number of Events:  11 
+    Version Control:  0 
+    Edit:  0 
+    Command:  5 
+    Document:  0 
+    Activity:  2 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  3 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  6de5c7a8-9099-4c96-9719-880323e19fbe  Number of Events:  9 
+    Version Control:  0 
+    Edit:  0 
+    Command:  2 
+    Document:  0 
+    Activity:  0 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  1 
+    Completion:  0 
+    System:  4 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  da466e42-0d3f-4450-a21b-584e4630e803  Number of Events:  19 
+    Version Control:  0 
+    Edit:  0 
+    Command:  4 
+    Document:  0 
+    Activity:  4 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  9 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  883a3cbb-8bae-40a1-ace8-11c4135611c1  Number of Events:  39 
+    Version Control:  0 
+    Edit:  0 
+    Command:  9 
+    Document:  0 
+    Activity:  8 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  15 
+    Completion:  0 
+    System:  4 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  3ade9119-9920-4436-859e-302a76aac193  Number of Events:  8 
+    Version Control:  0 
+    Edit:  0 
+    Command:  2 
+    Document:  0 
+    Activity:  1 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  3 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  4045230f-5c1f-467c-9ac6-979b8141725b  Number of Events:  38 
+    Version Control:  0 
+    Edit:  5 
+    Command:  14 
+    Document:  0 
+    Activity:  3 
+    Navigation:  2 
+    Test Run:  0 
+    Window:  3 
+    Completion:  2 
+    System:  0 
+    Debugger:  0 
+    Solution:  8 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  98bcb3af-285c-49fb-bd11-2e58b26e52d1  Number of Events:  5 
+    Version Control:  0 
+    Edit:  0 
+    Command:  2 
+    Document:  0 
+    Activity:  1 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  0 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  003c1fa1-c4e7-4280-a869-22296f89ea13  Number of Events:  1076 
+    Version Control:  0 
+    Edit:  118 
+    Command:  617 
+    Document:  29 
+    Activity:  46 
+    Navigation:  159 
+    Test Run:  0 
+    Window:  10 
+    Completion:  97 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  0 
+    Undefined:  0
+Session ID:  ffab9faf-a706-417a-8c18-57751e4a80a3  Number of Events:  14 
+    Version Control:  0 
+    Edit:  0 
+    Command:  7 
+    Document:  0 
+    Activity:  3 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  1 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  5e0b6835-69ee-4145-ada9-1180229a588d  Number of Events:  18 
+    Version Control:  0 
+    Edit:  0 
+    Command:  8 
+    Document:  0 
+    Activity:  6 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  1 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  b409d3ae-5821-4dc8-a54a-f4ad8e4ae16c  Number of Events:  68 
+    Version Control:  0 
+    Edit:  6 
+    Command:  26 
+    Document:  5 
+    Activity:  4 
+    Navigation:  11 
+    Test Run:  0 
+    Window:  7 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  8 
+    IDE State:  1 
+    Undefined:  0
+Session ID:  6d5aba29-7431-4c52-b9e2-b1b0a6034dce  Number of Events:  9 
+    Version Control:  0 
+    Edit:  0 
+    Command:  4 
+    Document:  0 
+    Activity:  3 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  0 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  88910c20-8caf-4f7f-a623-9bf677f9339c  Number of Events:  7 
+    Version Control:  0 
+    Edit:  0 
+    Command:  3 
+    Document:  0 
+    Activity:  2 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  0 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  27111dc1-eccd-45c0-9b3a-1ada7a971cbb  Number of Events:  12 
+    Version Control:  0 
+    Edit:  0 
+    Command:  2 
+    Document:  0 
+    Activity:  1 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  6 
+    Completion:  0 
+    System:  1 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  d58cd3af-91ef-4878-850e-6549d80236ce  Number of Events:  15 
+    Version Control:  0 
+    Edit:  0 
+    Command:  4 
+    Document:  0 
+    Activity:  2 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  7 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  e31e6ba2-a890-406d-9f5a-b967886e4052  Number of Events:  13 
+    Version Control:  0 
+    Edit:  0 
+    Command:  4 
+    Document:  0 
+    Activity:  2 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  4 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  1
+Session ID:  b12e2f10-b60e-4a0e-bfab-35b34b25c8a7  Number of Events:  56 
+    Version Control:  0 
+    Edit:  0 
+    Command:  12 
+    Document:  5 
+    Activity:  8 
+    Navigation:  1 
+    Test Run:  1 
+    Window:  25 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  2 
+    IDE State:  2 
+    Undefined:  0
+Session ID:  3d750d67-6715-429f-be6f-c7dcee9044cb  Number of Events:  166 
+    Version Control:  0 
+    Edit:  9 
+    Command:  84 
+    Document:  5 
+    Activity:  7 
+    Navigation:  19 
+    Test Run:  4 
+    Window:  24 
+    Completion:  13 
+    System:  1 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  0 
+    Undefined:  0
+Session ID:  830507f3-f4f6-480d-aee3-efa809f47ee4  Number of Events:  15 
+    Version Control:  0 
+    Edit:  0 
+    Command:  3 
+    Document:  0 
+    Activity:  2 
+    Navigation:  0 
+    Test Run:  0 
+    Window:  8 
+    Completion:  0 
+    System:  0 
+    Debugger:  0 
+    Solution:  0 
+    IDE State:  2 
+    Undefined:  0
+95  sessions
+95  sessionUUIDs
+594120  jsons looked at
