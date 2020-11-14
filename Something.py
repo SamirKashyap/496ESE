@@ -1,11 +1,11 @@
 from matplotlib import pyplot as plt
 
-def savetofile(events, data, UUID):
-    fig = plt.figure(figsize=(16,8))
-    ax = fig.add_subplot(111)
-    ax.bar(events, data)
-    name = str(UUID) + "_averages.png"
-    plt.savefig(name)
+# def savetofile(events, data, UUID):
+#     fig = plt.figure(figsize=(16,8))
+#     ax = fig.add_subplot(111)
+#     ax.bar(events, data)
+#     name = str(UUID) + "_averages.png"
+#     plt.savefig(name)
 
 
 def main():
@@ -89,16 +89,16 @@ def main():
             print("Undefined:",Undefined, "Percentage:", UndefinedPercent)
             events = ['VersionControl', 'Edit', 'Command', 'Document', 'Activity', 'Navigation', 'TestRun', 'Window',
                       'Completion', 'System', 'Debugger', 'Solution', 'IDEState', ' Undefined']
-            data = [VersionControlPercent, EditPercent, CommandPercent, DocumentPercent, ActivityPercent,
-                    NavigationPercent, TestRunPercent, WindowPercent, CompletionPercent, SystemPercent, DebuggerPercent,
-                    SolutionPercent, IDEStatePercent, UndefinedPercent]
+            # data = [VersionControlPercent, EditPercent, CommandPercent, DocumentPercent, ActivityPercent,
+            #         NavigationPercent, TestRunPercent, WindowPercent, CompletionPercent, SystemPercent, DebuggerPercent,
+            #         SolutionPercent, IDEStatePercent, UndefinedPercent]
 
             # savetofile(events, data, UUID)
         totaldata = [TotalVersionControlPercent/95, TotalEditPercent/95, TotalCommandPercent/95, TotalDocumentPercent/95, TotalActivityPercent/95,
                     TotalNavigationPercent/95, TotalTestRunPercent/95, TotalWindowPercent/95, TotalCompletionPercent/95, TotalSystemPercent/95, TotalDebuggerPercent/95,
                     TotalSolutionPercent/95, TotalIDEStatePercent/95, TotalUndefinedPercent/95]
-        savetofile(events, totaldata, "Total")
-        
+        # savetofile(events, totaldata, "Total")
+        print(totaldata, events)
     myfile.close()
 
 
