@@ -1,14 +1,28 @@
 from matplotlib import pyplot as plt
 
-# def savetofile(events, data, UUID):
-#     fig = plt.figure(figsize=(16,8))
-#     ax = fig.add_subplot(111)
-#     ax.bar(events, data)
-#     name = str(UUID) + "_averages.png"
-#     plt.savefig(name)
+def savetofile(events, data, UUID):
+    fig = plt.figure(figsize=(16,8))
+    ax = fig.add_subplot(111)
+    ax.bar(events, data)
+    name = str(UUID) + "_averages.png"
+    plt.savefig(name)
 
 
 def main():
+    TotalVersionControlPercent = 0
+    TotalEditPercent = 0
+    TotalCommandPercent = 0
+    TotalDocumentPercent = 0
+    TotalActivityPercent = 0
+    TotalNavigationPercent = 0
+    TotalTestRunPercent = 0
+    TotalWindowPercent = 0
+    TotalCompletionPercent = 0
+    TotalSystemPercent = 0
+    TotalDebuggerPercent = 0
+    TotalSolutionPercent = 0
+    TotalIDEStatePercent = 0
+    TotalUndefinedPercent = 0
     with open("output.txt") as myfile:
         lines = myfile.readlines()
         for i in range(0, 95):  #95 developer sessions
@@ -42,6 +56,21 @@ def main():
             SolutionPercent = Solution/Total
             IDEStatePercent = IDEState/Total
             UndefinedPercent = Undefined/Total
+
+            TotalVersionControlPercent += VersionControlPercent
+            TotalEditPercent += EditPercent
+            TotalCommandPercent += CommandPercent
+            TotalDocumentPercent += DocumentPercent
+            TotalActivityPercent += ActivityPercent
+            TotalNavigationPercent += NavigationPercent
+            TotalTestRunPercent += TestRunPercent
+            TotalWindowPercent += WindowPercent
+            TotalCompletionPercent += CompletionPercent
+            TotalSystemPercent += SystemPercent
+            TotalDebuggerPercent += DebuggerPercent
+            TotalSolutionPercent += SolutionPercent
+            TotalIDEStatePercent += IDEStatePercent
+            TotalUndefinedPercent += UndefinedPercent
             print("UUID:",UUID)
             print("Total:",Total)
             print("VersionControl:",VersionControl, "Percentage:", VersionControlPercent)
@@ -63,9 +92,13 @@ def main():
             data = [VersionControlPercent, EditPercent, CommandPercent, DocumentPercent, ActivityPercent,
                     NavigationPercent, TestRunPercent, WindowPercent, CompletionPercent, SystemPercent, DebuggerPercent,
                     SolutionPercent, IDEStatePercent, UndefinedPercent]
+
             # savetofile(events, data, UUID)
-
-
+        totaldata = [TotalVersionControlPercent/95, TotalEditPercent/95, TotalCommandPercent/95, TotalDocumentPercent/95, TotalActivityPercent/95,
+                    TotalNavigationPercent/95, TotalTestRunPercent/95, TotalWindowPercent/95, TotalCompletionPercent/95, TotalSystemPercent/95, TotalDebuggerPercent/95,
+                    TotalSolutionPercent/95, TotalIDEStatePercent/95, TotalUndefinedPercent/95]
+        savetofile(events, totaldata, "Total")
+        
     myfile.close()
 
 
