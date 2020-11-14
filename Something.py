@@ -1,9 +1,17 @@
 from matplotlib import pyplot as plt
 
+# def savetofile(events, data, UUID):
+#     fig = plt.figure(figsize=(16,8))
+#     ax = fig.add_subplot(111)
+#     ax.bar(events, data)
+#     name = str(UUID) + "_averages.png"
+#     plt.savefig(name)
+
+
 def main():
     with open("output.txt") as myfile:
         lines = myfile.readlines()
-        for i in range(0, 95):
+        for i in range(0, 95):  #95 developer sessions
             UUID = lines[i * 15][13:49]
             Total = int(lines[i * 15][70:-2])
             VersionControl = int(lines[i * 15 + 1][22:-2])
@@ -20,24 +28,46 @@ def main():
             Solution = int(lines[i * 15 + 12].split(":  ")[1][:-2])
             IDEState = int(lines[i * 15 + 13].split(":  ")[1][:-2])
             Undefined = int(lines[i * 15 + 14].split(":  ")[1][:-1])
+            VersionControlPercent = VersionControl/Total
+            EditPercent = Edit/Total
+            CommandPercent = Command/Total
+            DocumentPercent = Document/Total
+            ActivityPercent = Activity/Total
+            NavigationPercent = Navigation/Total
+            TestRunPercent = TestRun/Total
+            WindowPercent = Window/Total
+            CompletionPercent = Completion/Total
+            SystemPercent = System/Total
+            DebuggerPercent = Debugger/Total
+            SolutionPercent = Solution/Total
+            IDEStatePercent = IDEState/Total
+            UndefinedPercent = Undefined/Total
             print("UUID:",UUID)
             print("Total:",Total)
-            print("VersionControl:",VersionControl, "Percentage:", VersionControl/Total)
-            print("Edit:",Edit, "Percentage:", Edit/Total)
-            print("Command:",Command, "Percentage:", Command/Total)
-            print("Document:",Document, "Percentage:", Document/Total)
-            print("Activity:",Activity, "Percentage:", Activity/Total)
-            print("Navigation:",Navigation, "Percentage:", Navigation/Total)
-            print("TestRun:",TestRun, "Percentage:", TestRun/Total)
-            print("Window:",Window, "Percentage:", Window/Total)
-            print("Completion:",Completion, "Percentage:", Completion/Total)
-            print("System:",System, "Percentage:", System/Total)
-            print("Debugger:",Debugger, "Percentage:", Debugger/Total)
-            print("Solution:",Solution, "Percentage:", Solution/Total)
-            print("IDEState:",IDEState, "Percentage:", IDEState/Total)
-            print("Undefined:",Undefined, "Percentage:", Undefined/Total)
+            print("VersionControl:",VersionControl, "Percentage:", VersionControlPercent)
+            print("Edit:",Edit, "Percentage:", EditPercent)
+            print("Command:",Command, "Percentage:", CommandPercent)
+            print("Document:",Document, "Percentage:", DocumentPercent)
+            print("Activity:",Activity, "Percentage:", ActivityPercent)
+            print("Navigation:",Navigation, "Percentage:", NavigationPercent)
+            print("TestRun:",TestRun, "Percentage:", TestRunPercent)
+            print("Window:",Window, "Percentage:", WindowPercent)
+            print("Completion:",Completion, "Percentage:", CompletionPercent)
+            print("System:",System, "Percentage:", SystemPercent)
+            print("Debugger:",Debugger, "Percentage:", DebuggerPercent)
+            print("Solution:",Solution, "Percentage:", SolutionPercent)
+            print("IDEState:",IDEState, "Percentage:", IDEStatePercent)
+            print("Undefined:",Undefined, "Percentage:", UndefinedPercent)
+            events = ['VersionControl', 'Edit', 'Command', 'Document', 'Activity', 'Navigation', 'TestRun', 'Window',
+                      'Completion', 'System', 'Debugger', 'Solution', 'IDEState', ' Undefined']
+            data = [VersionControlPercent, EditPercent, CommandPercent, DocumentPercent, ActivityPercent,
+                    NavigationPercent, TestRunPercent, WindowPercent, CompletionPercent, SystemPercent, DebuggerPercent,
+                    SolutionPercent, IDEStatePercent, UndefinedPercent]
+            # savetofile(events, data, UUID)
+
 
     myfile.close()
+
 
 if __name__ == "__main__":
     main()
