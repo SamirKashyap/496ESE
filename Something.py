@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 #     ax = fig.add_subplot(111)
 #     ax.bar(events, data)
 #     name = str(UUID) + "_averages.png"
+#     plt.show()
 #     plt.savefig(name)
 
 
