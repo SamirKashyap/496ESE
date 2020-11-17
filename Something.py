@@ -8,6 +8,14 @@ from matplotlib import pyplot as plt
 #     plt.savefig(name)
 
 
+def showmaxes(events, data):
+    fig = plt.figure(figsize=(16,8))
+    ax = fig.add_subplot(111)
+    ax.bar(events, data)
+    name = "Max Events"
+    # plt.show()
+    plt.savefig(name)
+
 def main():
     TotalVersionControlPercent = 0
     TotalEditPercent = 0
@@ -23,9 +31,12 @@ def main():
     TotalSolutionPercent = 0
     TotalIDEStatePercent = 0
     TotalUndefinedPercent = 0
+    EventList = ['VersionControl', 'Edit', 'Command', 'Document', 'Activity', 'Navigation', 'TestRun', 'Window', 'Completion', 'System', 'Debugger', 'Solution', 'IDEState', ' Undefined']
     with open("output.txt") as myfile:
         lines = myfile.readlines()
+        maxes = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         for i in range(0, 95):  #95 developer sessions
+            Event = []
             UUID = lines[i * 15][13:49]
             Total = int(lines[i * 15][70:-2])
             VersionControl = int(lines[i * 15 + 1][22:-2])
@@ -42,6 +53,22 @@ def main():
             Solution = int(lines[i * 15 + 12].split(":  ")[1][:-2])
             IDEState = int(lines[i * 15 + 13].split(":  ")[1][:-2])
             Undefined = int(lines[i * 15 + 14].split(":  ")[1][:-1])
+
+            Event.append(VersionControl)
+            Event.append(Edit)
+            Event.append(Command)
+            Event.append(Document)
+            Event.append(Activity)
+            Event.append(Navigation)
+            Event.append(TestRun)
+            Event.append(Window)
+            Event.append(Completion)
+            Event.append(System)
+            Event.append(Debugger)
+            Event.append(Solution)
+            Event.append(IDEState)
+            Event.append(Undefined)
+
             VersionControlPercent = VersionControl/Total
             EditPercent = Edit/Total
             CommandPercent = Command/Total
@@ -71,6 +98,18 @@ def main():
             TotalSolutionPercent += SolutionPercent
             TotalIDEStatePercent += IDEStatePercent
             TotalUndefinedPercent += UndefinedPercent
+
+
+            maximum = []
+            maximum.append(max(Event))
+            print(maximum)
+            res = [Event.index(i) for i in maximum] 
+            print(EventList[res[0]])
+            maxes[res[0]] += 1
+
+
+            
+
             print("UUID:",UUID)
             print("Total:",Total)
             print("VersionControl:",VersionControl, "Percentage:", VersionControlPercent)
@@ -87,18 +126,18 @@ def main():
             print("Solution:",Solution, "Percentage:", SolutionPercent)
             print("IDEState:",IDEState, "Percentage:", IDEStatePercent)
             print("Undefined:",Undefined, "Percentage:", UndefinedPercent)
-            events = ['VersionControl', 'Edit', 'Command', 'Document', 'Activity', 'Navigation', 'TestRun', 'Window',
-                      'Completion', 'System', 'Debugger', 'Solution', 'IDEState', ' Undefined']
             # data = [VersionControlPercent, EditPercent, CommandPercent, DocumentPercent, ActivityPercent,
             #         NavigationPercent, TestRunPercent, WindowPercent, CompletionPercent, SystemPercent, DebuggerPercent,
             #         SolutionPercent, IDEStatePercent, UndefinedPercent]
 
-            # savetofile(events, data, UUID)
+            # savetofile(EventList, data, UUID)
         totaldata = [TotalVersionControlPercent/95, TotalEditPercent/95, TotalCommandPercent/95, TotalDocumentPercent/95, TotalActivityPercent/95,
                     TotalNavigationPercent/95, TotalTestRunPercent/95, TotalWindowPercent/95, TotalCompletionPercent/95, TotalSystemPercent/95, TotalDebuggerPercent/95,
                     TotalSolutionPercent/95, TotalIDEStatePercent/95, TotalUndefinedPercent/95]
-        # savetofile(events, totaldata, "Total")
-        print(totaldata, events)
+        # savetofile(EventList, totaldata, "Total")
+        print(maxes)
+        showmaxes(EventList, maxes)
+        print(totaldata, EventList)
     myfile.close()
 
 
