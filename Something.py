@@ -1,12 +1,12 @@
 from matplotlib import pyplot as plt
 
-# def savetofile(events, data, UUID):
-#     fig = plt.figure(figsize=(16,8))
-#     ax = fig.add_subplot(111)
-#     ax.bar(events, data)
-#     name = str(UUID) + "_averages.png"
-#     plt.show()
-#     plt.savefig(name)
+def savetofile(events, data, UUID):
+    fig = plt.figure(figsize=(16,8))
+    ax = fig.add_subplot(111)
+    ax.bar(events, data)
+    name = str(UUID) + "_averages.png"
+    plt.show()
+    # plt.savefig(name)
 
 
 def showmaxes(events, data):
@@ -14,8 +14,8 @@ def showmaxes(events, data):
     ax = fig.add_subplot(111)
     ax.bar(events, data)
     name = "Max Events"
-    # plt.show()
-    plt.savefig(name)
+    plt.show()
+    # plt.savefig(name)
 
 def main():
     TotalVersionControlPercent = 0
@@ -137,7 +137,7 @@ def main():
                     TotalSolutionPercent/95, TotalIDEStatePercent/95, TotalUndefinedPercent/95]
         # savetofile(EventList, totaldata, "Total")
         print(maxes)
-        showmaxes(EventList, maxes)
+        # showmaxes(EventList, maxes)
         print(totaldata, EventList)
     myfile.close()
 
