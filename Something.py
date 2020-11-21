@@ -9,8 +9,8 @@ def savetofile(events, data, UUID):
     ax.set_ylabel('Event Percentage')
     # name = str(UUID) + "_averages.png"
     name = "Total Averages.png"
-    plt.show()
-    # plt.savefig(name)
+    # plt.show()
+    plt.savefig(name)
 
 
 def showmaxes(events, data):
