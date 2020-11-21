@@ -4,7 +4,11 @@ def savetofile(events, data, UUID):
     fig = plt.figure(figsize=(16,8))
     ax = fig.add_subplot(111)
     ax.bar(events, data)
-    name = str(UUID) + "_averages.png"
+    ax.set_title("Total Event Averages of Sessions")
+    ax.set_xlabel('Event Type')
+    ax.set_ylabel('Event Percentage')
+    # name = str(UUID) + "_averages.png"
+    name = "Total Averages.png"
     plt.show()
     # plt.savefig(name)
 
@@ -135,7 +139,7 @@ def main():
         totaldata = [TotalVersionControlPercent/95, TotalEditPercent/95, TotalCommandPercent/95, TotalDocumentPercent/95, TotalActivityPercent/95,
                     TotalNavigationPercent/95, TotalTestRunPercent/95, TotalWindowPercent/95, TotalCompletionPercent/95, TotalSystemPercent/95, TotalDebuggerPercent/95,
                     TotalSolutionPercent/95, TotalIDEStatePercent/95, TotalUndefinedPercent/95]
-        # savetofile(EventList, totaldata, "Total")
+        savetofile(EventList, totaldata, "Total")
         print(maxes)
         # showmaxes(EventList, maxes)
         print(totaldata, EventList)
