@@ -105,20 +105,20 @@ def main():
             for j in graphsessions[i]:
                 # print(i, len(graphsessions[i]), graphsessions[i][0].sessionUUID, graphsessions[i][0])
                 print(i, j.TotalEvents, j.VersionControlEvents, j.EditEvents, j.CommandEvents, j.DocumentEvents, j.ActivityEvents, j.NavigationEvents, j.TestRunEvents, j.WindowEvents, j.CompletionEvents, j.SystemEvents, j.DebuggerEvents, j.SolutionEvents, j.IDEStateEvents, j.UndefinedEvents, file=open("stackplot.txt", "a"))
-    # sessions.pop("")
-    # for i in sessions:
-    #     if sessions[i].TotalEvents > 0: 
-    #         print("Session ID: ", sessions[i].sessionUUID, " Number of Events: ", sessions[i].TotalEvents, "\n    Version Control: ", sessions[i].VersionControlEvents, "\n    Edit: ", sessions[i].EditEvents, "\n    Command: ", sessions[i].CommandEvents, "\n    Document: ", \
-    #             sessions[i].DocumentEvents, "\n    Activity: ", sessions[i].ActivityEvents, "\n    Navigation: ",sessions[i].NavigationEvents, "\n    Test Run: ",sessions[i].TestRunEvents, "\n    Window: ",sessions[i].WindowEvents, "\n    Completion: ",sessions[i].CompletionEvents, \
-    #                 "\n    System: ", sessions[i].SystemEvents, "\n    Debugger: ",sessions[i].DebuggerEvents, "\n    Solution: ",sessions[i].SolutionEvents, "\n    IDE State: ",sessions[i].IDEStateEvents, "\n    Undefined: ",sessions[i].UndefinedEvents ,file=open("output.txt", "a"))   # ,file=open("output.txt", "a")
+    sessions.pop("")
+    for i in sessions:
+        if sessions[i].TotalEvents > 0: 
+            print("Session ID: ", sessions[i].sessionUUID, " Number of Events: ", sessions[i].TotalEvents, "\n    Version Control: ", sessions[i].VersionControlEvents, "\n    Edit: ", sessions[i].EditEvents, "\n    Command: ", sessions[i].CommandEvents, "\n    Document: ", \
+                sessions[i].DocumentEvents, "\n    Activity: ", sessions[i].ActivityEvents, "\n    Navigation: ",sessions[i].NavigationEvents, "\n    Test Run: ",sessions[i].TestRunEvents, "\n    Window: ",sessions[i].WindowEvents, "\n    Completion: ",sessions[i].CompletionEvents, \
+                    "\n    System: ", sessions[i].SystemEvents, "\n    Debugger: ",sessions[i].DebuggerEvents, "\n    Solution: ",sessions[i].SolutionEvents, "\n    IDE State: ",sessions[i].IDEStateEvents, "\n    Undefined: ",sessions[i].UndefinedEvents ,file=open("output.txt", "a"))   # ,file=open("output.txt", "a")
     
-    # counter = 0
-    # for j in sessions:
-    #     print(sessions[j].sessionUUID, sessions[j].TotalEvents)
-    #     counter += sessions[j].TotalEvents
-    # print(len(sessions), " sessions", file=open("output.txt", "a"))
-    # print(len(existingUUID), " sessionUUIDs", file=open("output.txt", "a"))
-    # print(counter, " jsons looked at", file=open("output.txt", "a"))
+    counter = 0
+    for j in sessions:
+        # print(sessions[j].sessionUUID, sessions[j].TotalEvents)
+        counter += sessions[j].TotalEvents
+    print(len(sessions), " sessions", file=open("output.txt", "a"))
+    print(len(existingUUID), " sessionUUIDs", file=open("output.txt", "a"))
+    print(counter, " jsons looked at", file=open("output.txt", "a"))
     print(len(graphsessions))
     print(len(sessions))
     
